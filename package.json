@@ -2,6 +2,8 @@
   "name": "mobile",
   "version": "1.0.0",
   "main": "index.ts",
+  "author": "Ismoiljon Masharipov",
+  "license": "LICENSED",
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",
