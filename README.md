@@ -100,3 +100,9 @@ ip addr show | grep inet
 - **Axios** - HTTP client
 - **Socket.io** - WebSocket client
 - **AsyncStorage** - Local storage
+
+## 📝 License
+
+Copyright (c) 2025 Ismoiljon Masharipov. All Rights Reserved.
+
+This software is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
